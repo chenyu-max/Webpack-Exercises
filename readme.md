@@ -1,29 +1,29 @@
-#webpack练习项目
+# webpack练习项目
 
 ## First
 首先 先建立文件夹
 
 使用 npm 初始化 init
 
-![](./assets/1.png)
+![1](./assets/1.png)
 
-![](./assets/2.png)
+![2](./assets/2.png)
 
 之后 修改以下 script
 
-![](./assets/3.png)
+![3](./assets/3.png)
 
 之后再安装 webpack 和 webpack-cli
 
-![](./assets/4.png)
+![4](./assets/4.png)
 
 同时建立下 src 文件夹
 
-![](./assets/5.png)
+![5](./assets/5.png)
 
 进行一次打包测试
 
-![](./assets/6.png)
+![6](./assets/6.png)
 
 没有任何的问题,可以开始着手编写代码
 
